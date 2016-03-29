@@ -1,1 +1,3 @@
-Primera modificacio del file projecte1
+Primera modificació del file projecte1
+Segona modificació vía entorn web (farem pull des de consola)
+
