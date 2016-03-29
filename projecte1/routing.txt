@@ -1,3 +1,3 @@
-Primera modificació del file projecte1
-Segona modificació vía entorn web (farem pull des de consola)
-
+Primera modificació del primer file projecte1
+Segona modificació vía entorn web (farem pull des de consola) Ha funcionat correctament!
+Ara farem el mateix pero fen un fetch i un merge...
